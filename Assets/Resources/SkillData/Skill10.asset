@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 45b5f084ed26bd4459a949fd477ff8e5, type: 3}
+  m_Name: Skill10
+  m_EditorClassIdentifier: 
+  skillName: "V\xF2ng xoay "
+  skillIcon: {fileID: 21300000, guid: 33cf830ad3b0bd146b6a8113529b67fb, type: 3}
+  description: 'OrbitingWeapon '
+  skillType: 10
+  skillCategory: 0
+  maxLevel: 5

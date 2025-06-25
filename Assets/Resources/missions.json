@@ -1,0 +1,124 @@
+{
+  "missions": [
+    {
+      "id": "mission_1",
+      "title": "Tiêu diệt 30 quái vật",
+      "currentProgress": 0,
+      "requiredProgress": 30,
+      "isCompleted": false,
+      "isClaimed": false,
+      "category": "Daily",
+      "rewards": [
+        {
+          "type": "Gold",
+          "amount": 100
+        }
+      ]
+    },
+    {
+      "id": "mission_2",
+      "title": "Online 10 phút",
+      "currentProgress": 0,
+      "requiredProgress": 10,
+      "isCompleted": false,
+      "isClaimed": false,
+      "category": "Daily",
+      "rewards": [
+        {
+          "type": "Gem",
+          "amount": 25
+        }
+      ]
+    },
+    {
+      "id": "mission_3",
+      "title": "Tiêu 500 vàng",
+      "currentProgress": 0,
+      "requiredProgress": 500,
+      "isCompleted": false,
+      "isClaimed": false,
+      "category": "Daily",
+      "rewards": [
+        {
+          "type": "Gem",
+          "amount": 25
+        }
+      ]
+    },
+    {
+      "id": "mission_4",
+      "title": "Vượt qua ải 1",
+      "currentProgress": 0,
+      "requiredProgress": 1,
+      "isCompleted": false,
+      "isClaimed": false,
+      "category": "Main",
+      "rewards": [
+        {
+          "type": "Gem",
+          "amount": 100
+        }
+      ]
+    },
+    {
+      "id": "mission_5",
+      "title": "Vượt qua ải 2",
+      "currentProgress": 0,
+      "requiredProgress": 1,
+      "isCompleted": false,
+      "isClaimed": false,
+      "category": "Main",
+      "rewards": [
+        {
+          "type": "Gem",
+          "amount": 150
+        }
+      ]
+    },
+    {
+      "id": "mission_6",
+      "title": "Tiêu diệt 60 quái vật",
+      "currentProgress": 0,
+      "requiredProgress": 60,
+      "isCompleted": false,
+      "isClaimed": false,
+      "category": "Daily",
+      "rewards": [
+        {
+          "type": "Gold",
+          "amount": 250
+        }
+      ]
+    },
+    {
+      "id": "mission_7",
+      "title": "Online 15 phút",
+      "currentProgress": 0,
+      "requiredProgress": 15,
+      "isCompleted": false,
+      "isClaimed": false,
+      "category": "Daily",
+      "rewards": [
+        {
+          "type": "Gem",
+          "amount": 70
+        }
+      ]
+    },
+    {
+      "id": "mission_8",
+      "title": "Vượt qua ải 3",
+      "currentProgress": 0,
+      "requiredProgress": 1,
+      "isCompleted": false,
+      "isClaimed": false,
+      "category": "Main",
+      "rewards": [
+        {
+          "type": "Gem",
+          "amount": 250
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1f9aa6085b1c9604cb5a4657702fd49d, type: 3}
+  m_Name: New Character Data 1
+  m_EditorClassIdentifier: 
+  characterName: "Nh\xE2n v\u1EADt 2"
+  icon: {fileID: 917104541, guid: 8f2f1cdf6848a4a8495353d4eba4ecea, type: 3}
+  characterPrefab: {fileID: 7557179605239600987, guid: 0944d1c16212eed45a93da65490b55f0, type: 3}
+  startingSkill: 3
+  startingSkillLevel: 1

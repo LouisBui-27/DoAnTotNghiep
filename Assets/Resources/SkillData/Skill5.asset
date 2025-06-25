@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 45b5f084ed26bd4459a949fd477ff8e5, type: 3}
+  m_Name: Skill5
+  m_EditorClassIdentifier: 
+  skillName: Boomerang
+  skillIcon: {fileID: 21300000, guid: 5e7abfa84123bbc4b932b98446fa921c, type: 3}
+  description: Boomerang
+  skillType: 2
+  skillCategory: 0
+  maxLevel: 5
